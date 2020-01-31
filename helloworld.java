@@ -1,5 +1,5 @@
 class helloworld {
-    public static void main(String args[], int value, int memes){
-        System.out.println("Hello World" + memes + value );
+    public static void main( String holy){
+        System.out.println("satan marco" + holy + holy);
     }
    }
